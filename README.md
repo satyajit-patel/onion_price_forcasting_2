@@ -1,4 +1,4 @@
-# Onion Price Prediction and Forecasting
+# Analysis of Onion Market Instability Using Machine Learning and Deep Learning Approaches
 
 ![Onion Price Prediction](https://www.hindustantimes.com/ht-img/img/2023/10/28/550x309/As-per-experts--there-was-a-delay-in-the-arrival-o_1698432023475_1698470479299.jpg)
 
