@@ -1,6 +1,6 @@
 # Onion Price Prediction and Forecasting
 
-![Onion Price Prediction](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hindustantimes.com%2Findia-news%2Fat-70-kg-onion-prices-rage-in-delhi-ncr-upsurge-likely-till-december-101698468288532.html&psig=AOvVaw2bApbuoXBgV0i56mphpTPd&ust=1733106365321000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC4jMrChYoDFQAAAAAdAAAAABAE)
+![Onion Price Prediction]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hindustantimes.com%2Findia-news%2Fat-70-kg-onion-prices-rage-in-delhi-ncr-upsurge-likely-till-december-101698468288532.html&psig=AOvVaw2bApbuoXBgV0i56mphpTPd&ust=1733106365321000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC4jMrChYoDFQAAAAAdAAAAABAE)
 
 ## Problem Statement
 The volatility in onion prices poses a significant challenge to market stability and economic planning in India. Factors such as unpredictable weather, supply-demand imbalance, and limited storage facilities contribute to sudden price fluctuations, impacting both farmers and consumers.
@@ -30,5 +30,5 @@ This project aims to predict and forecast onion prices using a hybrid approach t
 ## Usage
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/onion-price-prediction.git
+   git clone https://github.com/yourusername/onion-price-forecasting.git
    ```
