@@ -22,6 +22,7 @@ This project aims to predict and forecast onion prices using a hybrid approach t
 - Categorizes onion prices into three ranges: Low, Mid, and High.
 - Implements LSTM to effectively capture long-term dependencies in price trends.
 - Utilizes both classification and forecasting techniques to provide actionable insights.
+![Yearly Price Range](/4_model/version2/images/yearly_min_mid_max_prices.png)
 
 ## Results
 - **Traditional Models**: KNN (60.96%), Decision Tree (86.35%), SVM (84.32%), Neural Network (80.27%).
